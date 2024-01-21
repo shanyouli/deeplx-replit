@@ -1,5 +1,8 @@
 # deeplx-replit
 
+## 归档
+目前 replit 已经不支持免费的部署服务了，仅可以测试使用
+
 ## 鸣谢
 - [deeplx](https://github.com/OwO-Network/DeepLX)
 
